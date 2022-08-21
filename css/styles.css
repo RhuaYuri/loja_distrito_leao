@@ -487,6 +487,10 @@ progress {
   display: none !important;
 }
 
+.mastherhead {
+  background: url(https://github.com/RhuaYuri/distro_leao/blob/main/img/nome.jpg?raw=true) !important;
+}
+
 .lead {
   font-size: 1.25rem;
   font-weight: 300;
